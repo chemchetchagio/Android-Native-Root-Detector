@@ -12,11 +12,11 @@
     <string name="about_view_source_code"><![CDATA[Tham gia %1$s kênh <br/><br>Copyright © %2$s<br/>]]></string>
     <string name="About">Thông tin</string>
     <!-- _a & _b are set for certain languages -->
-    <string name="true_a">True</string>
-    <string name="false_a">False</string>
+    <string name="true_a">Đúng</string>
+    <string name="false_a">Sai</string>
     <!-- _a is for experimental detection status -->
-    <string name="true_b">True</string>
-    <string name="false_b">False</string>
+    <string name="true_b">Đúng</string>
+    <string name="false_b">Sai</string>
     <!-- _b is for signature valid status -->
     <string name="sysinfo">Hệ thống</string>
     <string name="sysinfo_device">Thiết bị: %s</string>
@@ -26,7 +26,7 @@
     <string name="appinfo_version">Phiên bản ứng dụng: %s</string>
     <string name="appinfo_signature">Chữ kí ứng dụng: %s</string>
     <string name="appinfo_is_signature_valid">Chữ kí hợp lệ: %s</string>
-    <string name="appinfo_unknown_version">UNKNOWN</string>
+    <string name="appinfo_unknown_version">Không rõ</string>
     <string name="experimental_detections">Phát hiện thử nghiệm: %s</string>
     <string name="DayNight">Chế độ tối</string>
     <string name="the_environment_is_normal">Hệ thống nguyên bản</string>
